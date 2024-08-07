@@ -1,0 +1,153 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./best-product.png",
+                "title": "QUALITY PRODUCTS",
+                "description": "We offer top-quality products including cable lugs, connectors, switches, and more to ensure reliability and performance in your electrical panels."
+            },
+            {
+                "id": 2,
+                "image": "./checklist.png",
+                "title": "WIDE RANGE",
+                "description": "Our extensive product range covers everything you need for your electrical panels, from bi-metallic connectors to panel fans."
+            },
+            {
+                "id": 3,
+                "image": "./motorbike.png",
+                "title": "FAST DELIVERY",
+                "description": "We ensure fast delivery of all our products, so you can complete your projects on time with minimal downtime."
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "ELMEX_KUT2.5.jpg",
+                "title": "2.5 KUT CONNECTER",
+                "category": "elmex"
+            },
+            {
+                "id": 2,
+                "image": "./KUDDF_4-56.png",
+                "title": "KUDDF-4",
+                "category": "elmex"
+            },
+            {
+                "id": 3,
+                "image": "./kpx.jpg",
+                "title": "kpx",
+                "category": "elmex"
+            }
+           ,
+            {
+                "id": 4,
+                "image": "./CST 2.5.jpg",
+                "title": "CST 2.5 MM ",
+                "category": "ELMEX"
+            },
+            {
+                "id": 5,
+                "image": "./REXNORD_FAN.jpg",
+                "title": "REXNORD PANEL FANS",
+                "category": "REXNORD"
+            },
+             {
+                "id": 6,
+                "image": "./LUGS.jpg",
+                "title": "CABLE LUGS",
+                "category": "DOWELL'S"
+            }
+           ,
+            {
+                "id": 7,
+                "image": "./CABLE_DUCT.jpg",
+                "title": "CABLE DUCT",
+                "category": "PREMIUM"
+            },
+            {
+                "id": 8,
+                "image": "ELMEX.jpg",
+                "title": "terminal connecter",
+                "category": "elmex"
+            }
+        ],
+        "dealers": [
+            {
+                "id": 1,
+                "image": "./main-logo.png",
+                "name": "ELMEX ",
+                "designation": "TERMINAL CONNECTERS"
+            },
+            {
+                "id": 2,
+                "image": "./dowell's.png",
+                "name": "DOWELL'S",
+                "designation": "CABLE LUGS"
+            },
+            {
+                "id": 3,
+                "image": "./primium.png",
+                "name": "PRIMIUM ",
+                "designation": "CABLE DUCT"
+            },
+            {
+                "id": 4,
+                "image": "./Rexnord_Logo.jpg",
+                "name": "REXNORD",
+                "designation": "PANEL FANS"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "30+",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 2,
+                "number": "300+",
+                "title": "PRODUCTS"
+            },
+            {
+                "id": 3,
+                "number": "150+",
+                "title": "COMPANIES OUR CLIENT"
+            },
+            {
+                "id": 4,
+                "number": "800+",
+                "title": "HAPPY CUSTOMERS"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "BRANDS",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "CONTECT US",
+                "link": "contect_us"
+            }
+        ]
+    
+    } 
+    ]
+}

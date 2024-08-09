@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {
+=======
+{ 
+>>>>>>> 3cef764166cedaf9375c22fdcc3dcd0731351384
   "homepage": "https://vir-webdev.github.io/zenithele",
   "name": "vir_webdev",
   "private": true,
@@ -9,8 +13,13 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+=======
+   "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+>>>>>>> 3cef764166cedaf9375c22fdcc3dcd0731351384
   },
   "dependencies": {
     "axios": "^1.6.2",

@@ -5,12 +5,12 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React</title>
-    <link rel="stylesheet" href="./dist/assets/index-d0tjvNJw.css">
-    <script src="./dist/assets/index-MuwV4OTU.js"></script>
+    <link rel="stylesheet" href="./assets/index-d0tjvNJw.css">
+    <script src="./assets/index-MuwV4OTU.js"></script>
     
     <script type="module">
       // Your JavaScript code here
-      fetch('/assets/restApi.json')
+      fetch('./restApi.json')
         .then(response => response.json())
         .then(data => console.log(data))
         .catch(error => console.error('Error fetching JSON:', error));
